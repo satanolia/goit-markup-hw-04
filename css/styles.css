@@ -483,6 +483,10 @@ img {
   margin-bottom: 16px;
 }
 
+.footer-soc-icons {
+  fill: #f4f4fd;
+}
+
 /* PORTFOLIO */
 
 .navigation-btn {
